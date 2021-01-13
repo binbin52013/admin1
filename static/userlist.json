@@ -1,0 +1,58 @@
+{
+    "data": {
+        "total": 5,
+        "pagenum": 1,
+        "pagesize": 2,
+        "users": [
+            {
+                "id": 500,
+                "role_name": "超级管理员",
+                "username": "admin",
+                "create_time": 1486720211,
+                "mobile": "13923453488",
+                "email": "admin@qq.com",
+                "mg_state": true         
+            },
+            {
+                "id": 577,
+                "role_name": "管理员",
+                "username": "你好啊",
+                "create_time": 1595146546,
+                "mobile": "13454545787",
+                "email": "11@qq.com",
+                "mg_state": false
+            },
+            {
+                "id": 580,
+                "role_name": "主管",
+                "username": "这是个测试",
+                "create_time": 1595170150,
+                "mobile": "13111111111",
+                "email": "jin@163.com",
+                "mg_state": false
+            },
+            {
+                "id": 587,
+                "role_name": "超级管理员",
+                "username": "324234",
+                "create_time": 1595213979,
+                "mobile": "13212313112",
+                "email": "2424@qq.com",
+                "mg_state": false
+            },
+            {
+                "id": 588,
+                "role_name": "超级管理员",
+                "username": "mmmm123",
+                "create_time": 1595215433,
+                "mobile": "13567890541",
+                "email": "mmmm123@126.com",
+                "mg_state": false
+            }
+        ]
+    },
+    "meta": {
+        "msg": "获取管理员列表成功",
+        "status": 200
+    }
+}

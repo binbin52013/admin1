@@ -1,0 +1,100 @@
+{
+    "status": "0",
+    "msg": "",
+    "result": {
+        "count": 8,
+        "slider":[
+            {
+                "title":"All",
+                "low":-1,
+                "hight":999999
+            },
+            {
+                "title":"0.00-100.00",
+                "low":0,
+                "hight":100
+            },
+            {
+                "title":"100.00-500.00",
+                "low":100,
+                "hight":500
+            },
+            {
+                "title":"500.00-1000.00",
+                "low":500,
+                "hight":1000
+            },
+            {
+                "title":"1000.00-2000.00",
+                "low":1000,
+                "hight":2000
+            }
+        ],
+        "list": [
+            {
+                "_id": "58e7050398dab115d336b3f2",
+                "productId": "201710007",
+                "productName": "自拍杆",
+                "salePrice": 39,
+                "productImage": "/img/zipai.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58e704ef98dab115d336b3f1",
+                "productId": "201710002",
+                "productName": "智能插线板",
+                "salePrice": 59,
+                "productImage": "/img/6.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58c284d7117a2e6599abef5e",
+                "productId": "201710004",
+                "productName": "头戴式耳机-3",
+                "salePrice": 80,
+                "productImage": "/img/2.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58e7058498dab115d336b3fc",
+                "productId": "201710017",
+                "productName": "小钢炮蓝牙音箱",
+                "salePrice": 129,
+                "productImage": "/img/1.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58e7058d98dab115d336b3fd",
+                "productId": "201710018",
+                "productName": "智能摄像机",
+                "salePrice": 389,
+                "productImage": "/img/photo.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58e7057798dab115d336b3fb",
+                "productId": "201710016",
+                "productName": "Ear700",
+                "salePrice": 700,
+                "productImage": "/img/16.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58e7051698dab115d336b3f4",
+                "productId": "201710009",
+                "productName": "IH 电饭煲",
+                "salePrice": 999,
+                "productImage": "/img/9.jpg",
+                "productNumber": "1"
+            },
+            {
+                "_id": "58e7052a98dab115d336b3f6",
+                "productId": "201710011",
+                "productName": "Ear1000",
+                "salePrice": 1000,
+                "productImage": "/img/11.jpg",
+                "productNumber": "1"
+            }
+        ]
+    }
+}
